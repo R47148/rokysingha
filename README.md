@@ -13,17 +13,17 @@
 
 - 👨‍💻 All of my projects are available at [https://your-portfolio-link.com/](https://your-portfolio-link.com/)
 
-- 📝 I regularly write articles on [https://your-blog-link.com/](https://your-blog-link.com/)
 
-- 📫 How to reach me **your-email@example.com**
 
-- ⚡ Fun fact **[Your fun fact, e.g., I love playing chess]**
+- 📫 How to reach me **rokysingha26@gmail.com**
+
+- ⚡ Fun fact **[Your fun fact, e.g., I love playing Foot Ball]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/[your_devto]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="[your_devto]" height="30" width="40" /></a>
 <a href="https://twitter.com/[your_twitter]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[your_twitter]" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/[your_linkedin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your_linkedin]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[https://www.linkedin.com/in/rokysingha/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your_linkedin]" height="30" width="40" /></a>
 <a href="https://kaggle.com/[your_kaggle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[your_kaggle]" height="30" width="40" /></a>
 <a href="https://instagram.com/[your_instagram]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[your_instagram]" height="30" width="40" /></a>
 <a href="https://medium.com/@[your_medium]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="[your_medium]" height="30" width="40" /></a>
